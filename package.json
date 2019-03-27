@@ -1,6 +1,6 @@
 {
-  "name": "generator-jslib2",
-  "version": "0.1.1",
+  "name": "generator-eslib",
+  "version": "0.1.2",
   "description": "yeoman generator for Javascript library using rollupjs",
   "main": "generators/app/index.js",
   "scripts": {
@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yoyojsjyzha/generator-jslib2.git"
+    "url": "https://github.com/yoyojsjyzha/generator-eslib.git"
   },
   "keywords": [
     "yeoman-generator",
+    "eslib",
     "jslib",
-    "jslib2",
     "rollup"
   ],
   "dependencies": {

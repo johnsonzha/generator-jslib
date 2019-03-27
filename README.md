@@ -1,7 +1,7 @@
 # JS lib generator
 
 ---
-[Yeoman](http://yeoman.io) generator for Javascript library using rollupjs.
+[Yeoman](http://yeoman.io) generator for Javascript library.
 ---
 ## Features
 
@@ -11,10 +11,10 @@
 
 ## Usage
 
-To install generator-jslib2 from npm, run:
+To install generator-eslib from npm, run:
 
 ```bash
-$ npm install --global yo generator-jslib2
+$ npm install --global yo generator-eslib
 ```
 
 Make a new directory and cd into it:
@@ -25,7 +25,7 @@ $ mkdir mylib
 Finally, initiate the generator:
 
 ```bash
-$ yo jslib2
+$ yo eslib
 ```
 
 ### Npm scripts
