@@ -14,7 +14,7 @@
 To install generator-jslib2 from npm, run:
 
 ```bash
-$ npm install --global yo gulp-cli generator-jslib2
+$ npm install --global yo generator-jslib2
 ```
 
 Make a new directory and cd into it:
