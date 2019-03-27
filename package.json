@@ -1,0 +1,44 @@
+{
+  "name": "generator-jslib2",
+  "version": "0.1.0",
+  "description": "yeoman generator for Javascript library using rollupjs",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "eslint . && mocha --reporter spec --timeout 3000"
+  },
+  "files": [
+    "generators",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoyojsjyzha/generator-jslib2.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "jslib",
+    "jslib2",
+    "rollup"
+  ],
+  "dependencies": {
+    "generator-jasmine": "^2.0.1",
+    "generator-mocha": "^2.0.1",
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "mocha": "^6.0.2",
+    "prettier": "^1.16.4",
+    "yeoman-assert": "^3.1.1",
+    "yeoman-test": "^1.9.1"
+  },
+  "author": {
+    "name": "Jasonzha",
+    "email": "jaxit@163.com",
+    "url": "https://github.com/yoyojsjyzha"
+  },
+  "license": "MIT"
+}
