@@ -67,7 +67,7 @@ module.exports = {
             output: 'rollup.config.js'
         },
         {
-            input: 'README.md',
+            input: '_README.md',
             output: 'README.md'
         }
     ]
