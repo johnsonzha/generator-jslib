@@ -1,4 +1,5 @@
-const <%= exportName %> = {
-     
-};
-export default <%= exportName %>;
+/**
+ * the entry module
+ */
+
+export default {};

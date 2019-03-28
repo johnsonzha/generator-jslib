@@ -33,12 +33,24 @@ module.exports = {
             output: 'src/.babelrc'
         },
         {
+            input: 'eslintignore',
+            output: '.eslintignore'
+        },
+        {
+            input: 'eslintrc.yml',
+            output: '.eslintrc.yml'
+        },
+        {
             input: 'gitignore',
             output: '.gitignore'
         },
         {
             input: 'editorconfig',
             output: '.editorconfig'
+        },
+        {
+            input: 'test.js',
+            output: 'test/test.js'
         }
     ],
     filesToRender: [

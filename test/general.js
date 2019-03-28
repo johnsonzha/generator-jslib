@@ -24,7 +24,9 @@ describe('general', () => {
             'src/main.js',
             '.editorconfig',
             '.gitignore',
-            'test',
+            '.eslintrc.yml',
+            '.eslintignore',
+            'test/test.js',
             'README.md',
             'rollup.config.js'
         ]);
