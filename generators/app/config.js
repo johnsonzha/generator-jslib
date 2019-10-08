@@ -30,7 +30,7 @@ module.exports = {
     filesToCopy: [
         {
             input: 'babelrc',
-            output: 'src/.babelrc'
+            output: '.babelrc'
         },
         {
             input: 'eslintignore',
@@ -39,6 +39,10 @@ module.exports = {
         {
             input: 'eslintrc.yml',
             output: '.eslintrc.yml'
+        },
+        {
+            input: 'prettierrc',
+            output: '.prettierrc'
         },
         {
             input: 'gitignore',
