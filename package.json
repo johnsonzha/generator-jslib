@@ -1,6 +1,6 @@
 {
   "name": "generator-eslib",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "yeoman generator for Javascript library using rollupjs",
   "main": "generators/app/index.js",
   "scripts": {
